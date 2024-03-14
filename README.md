@@ -55,7 +55,7 @@ El proyecto sigue una organización por funcionalidad, con carpetas separadas pa
 
 Los datos de los usuarios y del contenido se almacenaron archivos tipo JSON.
 
-# Getting Started with Create React App and Redux
+# Comenzando con la aplicación Create React y Redux
 
 ### `npm install`
 
